@@ -4,6 +4,7 @@
 
 **1. Información de los Estudiantes del equipo**
 *Nombre del estudiante:* Camilo Álvarez Villegas, Sara Echeverri
+
 *Número de clase:* Camilo Alvarez Villegas(Lunes de 6pm-9pm SI2002-1 (7308)), Sara Echeverri(Miercoles de 6pm-9pm SI2002-2 (7309))
 
 **2. Versiones del Sistema Operativo, Lenguaje de Programación y Herramientas**
